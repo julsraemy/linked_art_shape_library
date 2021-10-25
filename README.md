@@ -15,6 +15,6 @@ To open the diagrams.net editor with the loaded library, it is also possible to 
 This repository was inspired by the first [CIDOC-CRM Shape Library](https://github.com/ncarboni/Shapes_CIDOC-CRM) done by Nicola Carboni. 
 
 ## To cite this repository
-
+Raemy, J. A. (2021). Linked Art Shape Library (Version 0.1) [Computer software]. https://doi.org/10.5281/zenodo.5595830
 [![DOI](https://zenodo.org/badge/420909045.svg)](https://zenodo.org/badge/latestdoi/420909045)
 
