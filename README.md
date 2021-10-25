@@ -4,7 +4,7 @@ Shape library of [Linked Art](https://linked.art/) classes and properties to be 
 Please note that Linked Art V1.0 has not yet been published - which means that amendments may be necessary. 
 
 ## Usage
-Either download the XML from this repository and import it on diagrams.net (_File_ > _Open Library From_ > _Device ..._) or add it directily via the URI (_File_ > _Open Library From_ > _URL ..._). Once added, the shapes will appear on the left-hand side of the application.
+Either download the XML from this repository and import it on diagrams.net (_File_ > _Open Library From_ > _Device ..._) or add it directily by adding the following link https://raw.githubusercontent.com/julsraemy/linked_art_shape_library/main/linked_art_shapes.xml (_File_ > _Open Library From_ > _URL ..._). Once added, the shapes will appear on the left-hand side of the application.
 
 To open the diagrams.net editor with the loaded library, it is also possible to click on the following link : <url>
 
